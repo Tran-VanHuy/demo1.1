@@ -7,12 +7,10 @@
 .content {
 
   border: 3px solid #003366;
-  margin: 125px;
-  padding-bottom: 10px;
+  margin: 120px;
+  padding-bottom: 11px;
   min-height: 600px;
   height: auto;
-  width: auto;
-  
 }
 .content_left {
 
@@ -26,7 +24,8 @@
 .image_logo {
 
   width: 200px;
-  height: 689.6px;
+  height: 690.7px;
+
   margin-top: -20px;
   margin-left: 110px;
 }
@@ -69,6 +68,8 @@
 
   color: #333366;
   font-size: 45px;
+  font-family:"utm-aristote";
+    
 }
 
 .content_text_5 {

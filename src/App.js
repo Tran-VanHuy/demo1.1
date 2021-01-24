@@ -9,12 +9,13 @@ function App() {
     <div className="app">
     <div className = "content">
       <div className = "content_left">
-        <img src={"/Certificate---Shinhan---2_02.jpg"} className = "image_logo" />
+        <img src={"/Certificate---Shinhan---2_02.jpg"} className = "image_logo" alt=""/>
         </div>
         <div className = "content_right">
-          <div>
+        <div>
+        <div>
             <div className = "content_img">
-              <img src={"/Certificate---Shinhan---2_07.jpg"} className =  "image_logo_1"/>
+              <img src={"/Certificate---Shinhan---2_07.jpg"} className =  "image_logo_1" alt=""/>
             </div>
           </div>
 
@@ -27,7 +28,8 @@ function App() {
           </div>
 
           <div className = "content_header_3">
-            <p className = "content_text_4">Vũ Thị Thúy Hằng</p>
+          
+            <p className = "content_text_4">Vu Thi Thuy Hang</p>
           </div>
 
           <div className = "content_header_4" >
@@ -53,6 +55,8 @@ function App() {
           <div className = "content_header_9">
             <p className = "content_text_10">This is e-certificate applied to e-courses in S-Academy  system</p>
           </div>
+        </div>
+         
         </div>
     </div>
      
